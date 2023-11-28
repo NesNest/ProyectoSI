@@ -1,6 +1,6 @@
 import random as rm
 import math as mt
-import tkinter as tk>
+import tkinter as tk
 from tkinter import font
 
 #formulas fisicas
@@ -181,7 +181,7 @@ def _AE(size, cicles):
         pption = npopulation
         pption = npopulation  
     for i in range(size):
-        if (ev[i] > .9 ):
+        if (ev[i] > .9):
                 definitive = npopulation[i]
                 check = True
                 break

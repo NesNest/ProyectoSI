@@ -17,7 +17,7 @@ def distance(x1, y1, x2, y2):
     de = mt.sqrt((mt.pow((x2-x1), 2)) + (mt.pow((y2-y1), 2)))
     return de
 
-#formulas de bits
+#formulas de bitsu.,.p,.p
 def binario(binario):
     posicion = 0
     decimal = 0
